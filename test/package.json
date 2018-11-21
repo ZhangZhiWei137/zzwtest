@@ -1,0 +1,14 @@
+{
+  "name": "zzwtest",
+  "version": "0.0.1",
+  "description": "zhangzhiwei test",
+  "main": "index.js",
+  "scripts": {
+    "test": "zzwC"
+  },
+  "keywords": [
+    "zzw"
+  ],
+  "author": "zhangzhiwei",
+  "license": "ISC"
+}
